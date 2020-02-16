@@ -11,6 +11,10 @@ out/
 logs/
 *.txt
 *.war
+*.log.gz
 
 ### Maven ###
 target/
+
+###Exclude###
+!strings.txt
